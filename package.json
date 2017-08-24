@@ -1,0 +1,26 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anellla/nodeProject.git"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "Lena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anellla/nodeProject/issues"
+  },
+  "homepage": "https://github.com/Anellla/nodeProject#readme",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  }
+}
